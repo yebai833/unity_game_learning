@@ -1,0 +1,4 @@
+repository "angry birds@yebai833@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
